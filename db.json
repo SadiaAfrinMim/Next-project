@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Smartphone X2000",
+      "category": "Electronics",
+      "brand": "TechPro",
+      "price": 35500,
+      "image": "https://example.com/images/smartphone-x200.jpg"
+    },
+    {
+      "id": 2,
+      "product_name": "Wireless Headphones",
+      "category": "Accessories",
+      "brand": "SoundMax",
+      "price": 4500,
+      "image": "https://example.com/images/wireless-headphones.jpg"
+    },
+    {
+      "id": 3,
+      "product_name": "Gaming Laptop Z15",
+      "category": "Computers",
+      "brand": "GameTech",
+      "price": 95000,
+      "image": "https://example.com/images/gaming-laptop-z15.jpg"
+    },
+    {
+      "id": 4,
+      "product_name": "Office Chair Deluxe",
+      "category": "Furniture",
+      "brand": "ComfortLine",
+      "price": 12000,
+      "image": "https://example.com/images/office-chair-deluxe.jpg"
+    },
+    {
+      "id": 5,
+      "product_name": "Sports Watch Pro",
+      "category": "Wearables",
+      "brand": "FitTrack",
+      "price": 7800,
+      "image": "https://example.com/images/sports-watch-pro.jpg"
+    }
+  ]
+}
